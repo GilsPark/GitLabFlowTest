@@ -12,5 +12,6 @@ void func2()
 
 int main()
 {
+	func1();
 	printf("hello world");
 }
